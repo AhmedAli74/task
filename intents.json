@@ -1,0 +1,27 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "type": "mcq",
+            "options": ["1. Paris", "2. London", "3. Berlin", "4. Madrid"],
+            "answer": "1"
+        },
+        {
+            "question": "What is 10 + 5?",
+            "type": "mcq",
+            "options": ["1. 15", "2. 20", "3. 25", "4. 30"],
+            "answer": "1"
+        },
+        {
+            "question": "Who wrote 'Harry Potter'?",
+            "type": "mcq",
+            "options": ["1. J.K. Rowling", "2. Stephen King", "3. George Orwell", "4. J.R.R. Tolkien"],
+            "answer": "1"
+        },
+        {
+            "question": "Explain the concept of gravity.",
+            "type": "written",
+            "answer": "Gravity is a fundamental force that attracts objects with mass towards each other. It is responsible for the phenomenon of weight and plays a crucial role in the motion of celestial bodies such as planets, stars, and galaxies."
+        }
+    ]
+}
